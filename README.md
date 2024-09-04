@@ -1,7 +1,5 @@
 # Digital Marketing Campaign Analysis
-Goal: Perform an analysis of the February 2021 marketing campaigns, and provide recommendations for any future improvements. Build a Tableau dashboard to visualize findings.
-
-\* The interactive dashboard pictured below can be found [here](https://public.tableau.com/app/profile/angela.rodriguez5585/viz/MarketingAnalysisDashboard_17237537797790/MarketingDashboard).
+Goal: Perform an analysis of the February 2021 marketing campaigns, and provide recommendations for any future improvements. Build a Tableau dashboard to visualize findings (dashboard can be found [here](https://public.tableau.com/app/profile/angela.rodriguez5585/viz/MarketingAnalysisDashboard_17237537797790/MarketingDashboard)).
 
 ![dashboard-screenshot](https://github.com/user-attachments/assets/b447a679-9813-4ee3-8423-b2b0a8cfd6b8)
 
